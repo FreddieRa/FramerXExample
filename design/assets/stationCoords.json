@@ -1,0 +1,415 @@
+[
+  {
+    "name": "Acton Central",
+    "coordinates": [
+      -0.262971,
+      51.508715
+    ]
+  },
+  {
+    "name": "Barking",
+    "coordinates": [
+      0.080902,
+      51.539493
+    ]
+  },
+  {
+    "name": "Bethnal Green",
+    "coordinates": [
+      -0.059568,
+      51.523916
+    ]
+  },
+  {
+    "name": "Blackhorse Road",
+    "coordinates": [
+      -0.041236,
+      51.586604
+    ]
+  },
+  {
+    "name": "Brondesbury",
+    "coordinates": [
+      -0.202309,
+      51.545164
+    ]
+  },
+  {
+    "name": "Brondesbury Park",
+    "coordinates": [
+      -0.210128,
+      51.540698
+    ]
+  },
+  {
+    "name": "Bruce Grove",
+    "coordinates": [
+      -0.069867,
+      51.593958
+    ]
+  },
+  {
+    "name": "Bush Hill Park",
+    "coordinates": [
+      -0.069221,
+      51.641517
+    ]
+  },
+  {
+    "name": "Caledonian Road & Barnsbury",
+    "coordinates": [
+      -0.118361,
+      51.547885
+    ]
+  },
+  {
+    "name": "Cambridge Heath",
+    "coordinates": [
+      -0.057279,
+      51.531971
+    ]
+  },
+  {
+    "name": "Camden Road",
+    "coordinates": [
+      -0.138701,
+      51.541789
+    ]
+  },
+  {
+    "name": "Canonbury",
+    "coordinates": [
+      -0.092191,
+      51.548731
+    ]
+  },
+  {
+    "name": "Cheshunt",
+    "coordinates": [
+      -0.02396,
+      51.702875
+    ]
+  },
+  {
+    "name": "Chingford",
+    "coordinates": [
+      0.009897,
+      51.633085
+    ]
+  },
+  {
+    "name": "Clapton",
+    "coordinates": [
+      -0.057025,
+      51.561642
+    ]
+  },
+  {
+    "name": "Crouch Hill",
+    "coordinates": [
+      -0.117149,
+      51.5713
+    ]
+  },
+  {
+    "name": "Dalston Kingsland",
+    "coordinates": [
+      -0.076227,
+      51.548668
+    ]
+  },
+  {
+    "name": "Edmonton Green",
+    "coordinates": [
+      -0.061112,
+      51.624927
+    ]
+  },
+  {
+    "name": "Enfield Town",
+    "coordinates": [
+      -0.079328,
+      51.652024
+    ]
+  },
+  {
+    "name": "Finchley Road & Frognal",
+    "coordinates": [
+      -0.180051,
+      51.547096
+    ]
+  },
+  {
+    "name": "Gospel Oak",
+    "coordinates": [
+      -0.15077,
+      51.555334
+    ]
+  },
+  {
+    "name": "Gunnersbury",
+    "coordinates": [
+      -0.275286,
+      51.491676
+    ]
+  },
+  {
+    "name": "Hackney Central",
+    "coordinates": [
+      -0.056058,
+      51.547103
+    ]
+  },
+  {
+    "name": "Hackney Downs",
+    "coordinates": [
+      -0.060819,
+      51.548756
+    ]
+  },
+  {
+    "name": "Hackney Wick",
+    "coordinates": [
+      -0.02492,
+      51.543409
+    ]
+  },
+  {
+    "name": "Hampstead Heath",
+    "coordinates": [
+      -0.165705,
+      51.555209
+    ]
+  },
+  {
+    "name": "Harringay Green Lanes",
+    "coordinates": [
+      -0.098144,
+      51.577181
+    ]
+  },
+  {
+    "name": "Highams Park",
+    "coordinates": [
+      -0.000222,
+      51.608348
+    ]
+  },
+  {
+    "name": "Highbury & Islington",
+    "coordinates": [
+      -0.103764,
+      51.546176
+    ]
+  },
+  {
+    "name": "Homerton",
+    "coordinates": [
+      -0.04236,
+      51.54701
+    ]
+  },
+  {
+    "name": "Kensal Rise",
+    "coordinates": [
+      -0.219957,
+      51.534553
+    ]
+  },
+  {
+    "name": "Kentish Town West",
+    "coordinates": [
+      -0.146656,
+      51.546546
+    ]
+  },
+  {
+    "name": "Kew Gardens",
+    "coordinates": [
+      -0.285054,
+      51.477072
+    ]
+  },
+  {
+    "name": "Leyton Midland Road",
+    "coordinates": [
+      -0.008051,
+      51.569724
+    ]
+  },
+  {
+    "name": "Leytonstone High Road",
+    "coordinates": [
+      0.008416,
+      51.563553
+    ]
+  },
+  {
+    "name": "Liverpool Street",
+    "coordinates": [
+      -0.081426,
+      51.517989
+    ]
+  },
+  {
+    "name": "London Fields",
+    "coordinates": [
+      -0.057753,
+      51.541151
+    ]
+  },
+  {
+    "name": "Rectory Road",
+    "coordinates": [
+      -0.068267,
+      51.558501
+    ]
+  },
+  {
+    "name": "Richmond",
+    "coordinates": [
+      -0.301558,
+      51.463059
+    ]
+  },
+  {
+    "name": "Seven Sisters",
+    "coordinates": [
+      -0.07527,
+      51.582266
+    ]
+  },
+  {
+    "name": "Silver Street",
+    "coordinates": [
+      -0.06724,
+      51.614687
+    ]
+  },
+  {
+    "name": "South Acton",
+    "coordinates": [
+      -0.270157,
+      51.499694
+    ]
+  },
+  {
+    "name": "South Tottenham",
+    "coordinates": [
+      -0.072103,
+      51.580371
+    ]
+  },
+  {
+    "name": "Southbury",
+    "coordinates": [
+      -0.052437,
+      51.648703
+    ]
+  },
+  {
+    "name": "St. James Street",
+    "coordinates": [
+      -0.032805,
+      51.580609
+    ]
+  },
+  {
+    "name": "Stamford Hill",
+    "coordinates": [
+      -0.076682,
+      51.574466
+    ]
+  },
+  {
+    "name": "Stoke Newington",
+    "coordinates": [
+      -0.072887,
+      51.565231
+    ]
+  },
+  {
+    "name": "Stratford",
+    "coordinates": [
+      -0.003397,
+      51.541893
+    ]
+  },
+  {
+    "name": "Theobalds Grove",
+    "coordinates": [
+      -0.034831,
+      51.692455
+    ]
+  },
+  {
+    "name": "Turkey Street",
+    "coordinates": [
+      -0.047217,
+      51.672626
+    ]
+  },
+  {
+    "name": "Upper Holloway",
+    "coordinates": [
+      -0.129513,
+      51.56363
+    ]
+  },
+  {
+    "name": "Walthamstow Central",
+    "coordinates": [
+      -0.019815,
+      51.582917
+    ]
+  },
+  {
+    "name": "Walthamstow Queen's Road",
+    "coordinates": [
+      -0.023846,
+      51.581501
+    ]
+  },
+  {
+    "name": "Wanstead Park",
+    "coordinates": [
+      0.026213,
+      51.551691
+    ]
+  },
+  {
+    "name": "West Hampstead",
+    "coordinates": [
+      -0.191185,
+      51.547466
+    ]
+  },
+  {
+    "name": "White Hart Lane",
+    "coordinates": [
+      -0.070914,
+      51.605035
+    ]
+  },
+  {
+    "name": "Willesden Junction",
+    "coordinates": [
+      -0.244548,
+      51.532495
+    ]
+  },
+  {
+    "name": "Wood Street",
+    "coordinates": [
+      -0.002405,
+      51.586579
+    ]
+  },
+  {
+    "name": "Woodgrange Park",
+    "coordinates": [
+      0.044423,
+      51.549262
+    ]
+  }
+]

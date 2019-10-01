@@ -1,0 +1,18 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "2901bb57-aadc-4ecc-8040-f507fdac3fc7",
+		"displayName": "ScrollBar"
+	},
+	"author": "Steve Ruiz",
+	"name": "@framer/steveruizok.scroll-bar",
+	"version": "1.5.0"
+}
